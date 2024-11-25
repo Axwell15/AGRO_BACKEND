@@ -1,6 +1,6 @@
 import { Transaction } from '../models/transaction.js';
 import { Cart } from '../models/cart.js';
-import { Product } from '../models/product.js';
+import { Product } from '../models/Product.js';
 import { User } from '../models/user.js';
 import jwt from "jsonwebtoken";
 

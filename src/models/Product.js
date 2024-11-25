@@ -68,4 +68,4 @@ const productSchema = new Schema({
     averageRating: { type: Number, default: 0 }
 });
 
-export const Product = model("Product", productSchema);
+export const Product = mongoose.models.Product || model("Product", productSchema);

@@ -13,7 +13,6 @@ AGRO_BACKEND is the backbone of a virtual marketplace tailored for the agricultu
 - Express.js
 - MongoDB
 - JWT for authentication
-- Docker
 
 ## Installation
 
@@ -45,5 +44,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any inquiries, please contact [your email].
